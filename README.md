@@ -9,7 +9,7 @@ Usando tecnologia java Maven-Spring boot Com os seguintes requisitos funcionais:
 
 
 
-1 A base de dados em  Mysql  contem 6
+1 A base de dados em  Mysq
 para criar um novo Pais apartir da API com todas as propriedades[Postman]
 
 POST localhost:8080/api/paises
